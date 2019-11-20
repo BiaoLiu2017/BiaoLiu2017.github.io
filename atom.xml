@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>刘标的博客</title>
+  
+  <subtitle>BiaoLiu</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://biaoliu2017.github.io/"/>
+  <updated>2019-11-20T13:05:32.848Z</updated>
+  <id>https://biaoliu2017.github.io/</id>
+  
+  <author>
+    <name>刘标</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>二零一九年终总结</title>
+    <link href="https://biaoliu2017.github.io/2019/11/20/2017-conclusion/"/>
+    <id>https://biaoliu2017.github.io/2019/11/20/2017-conclusion/</id>
+    <published>2019-11-20T12:53:00.000Z</published>
+    <updated>2019-11-20T13:05:32.848Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://biaoliu2017.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://biaoliu2017.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
